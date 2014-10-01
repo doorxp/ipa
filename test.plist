@@ -18,7 +18,7 @@ CTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/Prop
                 <key>bundle-identifier</key>
                 <string>com.PocketElements.HuanShou</string>
                 <key>bundle-version</key>
-                <string>1.0</string>
+                <string>4.4</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
