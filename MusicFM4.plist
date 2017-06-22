@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.36:8888/MusicFM4.ipa</string>
+					<string>http://192.168.1.36:7888/MusicFM4.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -25,6 +25,14 @@
 				<key>title</key>
 				<string>MusicFM4</string>
 			</dict>
+			<dict>
+			                                    <key>kind</key>
+			                                    <string>display-image</string>
+			                                    <key>needs-shine</key>
+			                                    <false/>
+			                                    <key>url</key>
+			                                    <string>http://192.168.1.36:7888/iTunesArtwork.png</string>
+			                            </dict>
 		</dict>
 	</array>
 </dict>
