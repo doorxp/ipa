@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app.doorxp.com/ipa/Shogi2.ipa</string>
+					<string>http://192.168.1.36/ipa/Shogi2.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,13 +19,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://app.doorxp.com/ipa/Shogi2/AppIcon.png</string>
+					<string>http://192.168.1.36/ipa/Shogi2/AppIcon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.DreamWaning.jiangqiNGcs</string>
+				<string>com.CorydalisPaniculata.jiangqiLW</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
