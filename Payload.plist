@@ -32,6 +32,8 @@
 				<string>software</string>
 				<key>title</key>
 				<string>VStocks</string>
+				<key>cpus</key>
+				<string>Array</string>
 			</dict>
 		</dict>
 	</array>
