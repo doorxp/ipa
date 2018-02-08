@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.36/ipa/VideoDL5_ZF2.ipa</string>
+					<string>http://app.doorxp.com/ipa/VStocks.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,19 +19,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.1.36/ipa/VideoDL5_ZF2/AppIcon.png</string>
+					<string>http://app.doorxp.com/ipa/VStocks/AppIcon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.SourPlum.ytbsp5zb2</string>
+				<string>com.AraucariaCunninghamii.MusicCube</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>VideoDL5_ZF2</string>
+				<string>VStocks</string>
 			</dict>
 		</dict>
 	</array>
