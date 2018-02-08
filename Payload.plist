@@ -34,6 +34,8 @@
 				<string>VStocks</string>
 				<key>cpus</key>
 				<string>Array</string>
+				<key>upload-date</key>
+				<string>1518059407</string>
 			</dict>
 		</dict>
 	</array>
